@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bashD
 echo "This School is so cool"
 
+=======
+#!/bin/bash
+echo "This School is so cool!"
+>>>>>>> 983853710b2389516bb027b98062601918aa4490
